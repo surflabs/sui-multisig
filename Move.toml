@@ -1,0 +1,11 @@
+[package]
+name = "sui_multisig"
+version = "0.0.1"
+license = "MIT"
+authors = ["Surflab (surflabs.wallet@gmail.com)"]
+
+[dependencies]
+Sui = { git = "https://github.com/MystenLabs/sui.git", subdir = "crates/sui-framework", rev = "6c001d0c491d1481fd4b477881d320e2421a6517" }
+
+[addresses]
+sui_multisig =  "0x0"

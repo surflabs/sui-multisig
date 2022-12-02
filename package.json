@@ -1,0 +1,14 @@
+{
+  "devDependencies": {
+    "@mysten/sui.js": "^0.17.1"
+  },
+  "name": "@surflabs/sui-multisig",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:surflabs/sui-multisig.git",
+  "author": "surflabs <surflabs.wallet@gmail.com>",
+  "license": "MIT",
+  "files": [
+    "lib/**/*"
+  ]
+}
